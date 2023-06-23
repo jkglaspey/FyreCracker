@@ -22,6 +22,11 @@
 			"Name": "VoxelFree",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/b08e5581837e4bbca486b61cdf2751bb"
+		},
+		{
+			"Name": "SteamCorePro",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/459e1c72939b4ead8b5132187808a3e7"
 		}
 	]
 }
