@@ -6,7 +6,7 @@
 #include "UQbAssetImportFactory.generated.h"
 
 UCLASS()
-class FYRECRACKER_API UQbAssetImportFactory : public UFactory
+class FYRECRACKEREDITOR_API UQbAssetImportFactory : public UFactory
 {
 	GENERATED_BODY()
 public:
@@ -28,6 +28,5 @@ public:
 		bool& bOutOperationCanceled
 	) override;
 };
-
 
 

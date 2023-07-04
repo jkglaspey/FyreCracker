@@ -10,6 +10,6 @@ public class FyrecrackerEditorTarget : TargetRules
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
 
-		ExtraModuleNames.AddRange( new string[] { "Fyrecracker" } );
+		ExtraModuleNames.AddRange( new string[] { "FyrecrackerEditor" } );
 	}
 }
