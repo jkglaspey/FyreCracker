@@ -25,6 +25,14 @@
 			"Name": "SteamCorePro",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/459e1c72939b4ead8b5132187808a3e7"
+		},
+		{
+			"Name": "AlembicHairImporter",
+			"Enabled": true
+		},
+		{
+			"Name": "HairStrands",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
